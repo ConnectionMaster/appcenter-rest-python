@@ -1,0 +1,13 @@
+# StoresDetails
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **str** | ID identifying a unique distribution store. | [optional] 
+**name** | **str** | A name identifying a unique distribution store. | [optional] 
+**type** | **str** | A type identifying the type of distribution store. | [optional] 
+**publishing_status** | **str** | A status identifying the status of release in the distribution store. | [optional] 
+**is_latest** | **bool** | Is the containing release the latest one in this distribution store. | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
