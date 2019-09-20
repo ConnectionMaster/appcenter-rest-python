@@ -32,4 +32,6 @@ cp -R "${generated_path}/setup.py" "setup.py"
 cp -R "${generated_path}/test-requirements.txt" "test-requirements.txt"
 cp -R "${generated_path}/tox.ini" "tox.ini"
 
+cp -R "${generated_path}/README.md" "docs/README.md"
+
 rm -rf "${generated_path}"
